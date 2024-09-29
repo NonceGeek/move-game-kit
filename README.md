@@ -1,6 +1,10 @@
 # Move Game Kit
 
-game kit for the move-based chains, such as Aptos.
+Game kit for the move-based chains, such as Aptos.
+
+**Buidl based on the key feature of Move: Composability.**
+
+> Full Deck👉: https://bodhi.wtf/space/5/15080
 
 There are series of tools and game example now:
 
