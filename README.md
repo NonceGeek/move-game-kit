@@ -25,3 +25,17 @@ There are series of tools and game example now:
   > Online App(Testnet) 👉: https://roguelike.rootmud.xyz/
   >
   > Github Link: https://github.com/NonceGeek/move-roguelike
+
+```
++-----------+                Generate by the Recipe
+| Movecraft |---- Cells NFT ----> Objects -----------+
++-----------+                                        |
+                                                     |
++-----------+                                        |
+| Move-Map  |---- Map NFT ----> Game Map ------+     |
++-----------+                                  |     |
+                                               ↓     ↓
++----------------+                        +-------------------------+                      
+| Move-Roguelike | ---------------------> | Be a "Dungeon Master" ! |
++----------------+                        +-------------------------+
+```
