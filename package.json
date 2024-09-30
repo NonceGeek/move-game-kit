@@ -10,7 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@nuxtjs/color-mode": "^3.3.2"
+    "@nuxtjs/color-mode": "^3.3.2",
+    "vercel": "^37.6.0"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
