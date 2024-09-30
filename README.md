@@ -26,7 +26,7 @@ There are series of tools and game example now:
   >
   > Github Link: https://github.com/NonceGeek/move-roguelike
   
-* [MoveDID](https://github.com/NonceGeek/MoveDID): on- chain profile for Users.
+* [MoveDID](https://github.com/NonceGeek/MoveDID): on-chain profile for Users.
 
   > Online App(Mainnet) 👉: https://manager.movedid.build
   >
