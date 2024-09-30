@@ -25,6 +25,12 @@ There are series of tools and game example now:
   > Online App(Testnet) 👉: https://roguelike.rootmud.xyz/
   >
   > Github Link: https://github.com/NonceGeek/move-roguelike
+  
+* [MoveDID](https://github.com/NonceGeek/MoveDID): on- chain profile for Users.
+
+  > Online App(Testnet) 👉: https://manager.movedid.build
+  >
+  > Github Link: https://github.com/NonceGeek/MoveDID
 
 ```
 +-----------+                Generate by the Recipe
