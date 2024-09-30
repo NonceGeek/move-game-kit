@@ -28,7 +28,7 @@ There are series of tools and game example now:
   
 * [MoveDID](https://github.com/NonceGeek/MoveDID): on- chain profile for Users.
 
-  > Online App(Testnet) 👉: https://manager.movedid.build
+  > Online App(Mainnet) 👉: https://manager.movedid.build
   >
   > Github Link: https://github.com/NonceGeek/MoveDID
 
