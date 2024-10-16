@@ -10,7 +10,9 @@ There are series of tools and game example now:
 
 * [Movecraft](https://github.com/rootMUD/movecraft): a decentralized craft impl in move, all the elements are NFTs, it could be use in the diff games.
 
-  > Online App(Testnet) 👉: https://craft.rootmud.xyz/
+  > Online App(Testnet) 👉: https://test.craft.rootmud.xyz/
+  > 
+  > Online App(Mainnet) 👉: https://craft.rootmud.xyz/
   > 
   > Github Link: https://github.com/rootMUD/movecraft
 
@@ -25,6 +27,12 @@ There are series of tools and game example now:
   > Online App(Testnet) 👉: https://roguelike.rootmud.xyz/
   >
   > Github Link: https://github.com/NonceGeek/move-roguelike
+
+* [Scaffold-Aptos](https://github.com/NonceGeek/scaffold-aptos): Scaffold & Scaffold Examples for dev to buidl Move Games.
+
+  > Online App(Testnet) 👉: https://scaffold.rootmud.xyz
+  >
+  > Github Link: https://github.com/NonceGeek/scaffold-aptos
   
 * [MoveDID](https://github.com/NonceGeek/MoveDID): on-chain profile for Users.
 
