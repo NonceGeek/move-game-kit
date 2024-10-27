@@ -28,10 +28,12 @@
               <h1 class="text-6xl font-bold">Move Game Kit</h1>
               <!--<span class="w-[450px] text-[50px] leading-none font-['Poppins'] font-medium tracking-[0.6px]"><b>Move Game
                 Kit</b></span>-->
-              <span class="w-[510px] text-[30px] leading-tight font-['Poppins']">Game Kit for Move-based Chains.</span>
+              <span class="w-[600px] text-[20px] leading-tight font-['Poppins']">Game Kit for Move-based Chains.</span>
+              <span class="w-[600px] text-[20px] leading-tight font-['Poppins']">We believe that FOCG needs tools🧰, NOT
+                just a framework.</span>
             </div>
           </div>
-          <div class="flex items-center space-x-2 text-third-gray dark:text-gray-4 text-[21px]">
+          <div class="flex items-center space-x-2 text-third-gray dark:text-gray-4 text-[20px]">
             <span class="leading-8">
               Powered by <a href="https://x.com/0xleeduckgo" target="_blank" rel="noopener noreferrer"
                 class="text-blue-500 underline">0xleeduckgo</a>
@@ -61,8 +63,9 @@
 
             </div>
           </div>
-
-          <TheButton text="Launch App" :colored-border="true" href="https://craft.rootmud.xyz" />
+          <TheButton text="Launch App - TESTNET" :colored-border="true" href="https://test.craft.rootmud.xyz" />
+          <TheButton text="Launch App - MAINNET" :colored-border="true" href="https://craft.rootmud.xyz" />
+          <TheButton text="Demo Video" :colored-border="true" href="https://youtu.be/Iw-ER5XmCPI" target="_blank" />
         </div>
 
         <div class="title text-black-2 dark:text-white text-[40px] font-['Poppins'] font-semibold flex items-center">
@@ -89,7 +92,7 @@
             </div>
           </div>
 
-          <TheButton text="Launch App" :colored-border="true" href="https://map-nft.rootmud.xyz" />
+          <TheButton text="Launch App" :colored-border="true" href="https://dm.rootmud.xyz/#/map-editor" />
         </div>
       </div>
       <div class="w-[575px] p-2.5">
@@ -102,16 +105,17 @@
         <div class="w-[555px] flex flex-col space-y-6 items-start">
           <div class="w-full flex flex-col space-y-2 text-[20px] text-second-gray dark:text-white font-['Poppins']">
             <div class="flex items-center">
-              A roguelike game shows how the Move-Map & Movecraft could be used!
+              Be a Dungeon Master, a game based on MoveCraft & MoveMap, create your own on-chain dungeon & meet the
+              adventurers!
             </div>
           </div>
 
-          <TheButton text="Launch App" :colored-border="true" href="https://roguelike.rootmud.xyz" />
+          <TheButton text="Launch App" :colored-border="true" href="https://dm.rootmud.xyz" />
         </div>
 
-        <div class="title text-black-2 dark:text-white text-[40px] font-['Poppins'] font-semibold flex items-center">
-          <span>MOVE ROGUELIKE</span>
-          
+        <div class="title text-black-2 dark:text-white text-[30px] font-['Poppins'] font-semibold flex items-center">
+          <span>Be A Dungeon Master 👾</span>
+
         </div>
 
       </div>
@@ -121,7 +125,11 @@
       <!-- A Block End -->
 
       <!-- A Block Begin -->
-        <div class="w-full flex justify-start items-center space-x-60">
+      <div class="w-full flex justify-start items-center space-x-60">
+        <div class="title text-black-2 dark:text-white text-[40px] font-['Poppins'] font-semibold flex items-center">
+          <span>Sacffold Move 🏗</span>
+
+        </div>
         <div class="w-[555px] flex flex-col space-y-6 items-start">
           <div class="w-full flex flex-col space-y-2 text-[20px] text-second-gray dark:text-white font-['Poppins']">
             <div class="flex items-center">
@@ -130,26 +138,71 @@
           </div>
 
           <TheButton text="Scaffold" :colored-border="true" href="https://github.com/noncegeek/scaffold-aptos" />
-          <TheButton text="Scaffold Examples" :colored-border="true" href="https://github.com/rootmud/scaffold-aptos-examples" />
+          <TheButton text="Scaffold Examples" :colored-border="true"
+            href="https://github.com/rootmud/scaffold-aptos-examples" />
         </div>
 
-        <div class="title text-black-2 dark:text-white text-[40px] font-['Poppins'] font-semibold flex items-center">
-          <span>Sacffold Move 🏗</span>
-          
-        </div>
+
 
       </div>
       <div class="w-[575px] p-2.5">
         <LinearLine />
       </div>
-    <!-- A Block End -->
+      <!-- A Block End -->
+
+      <!-- A Block Begin -->
+      <div class="w-full flex justify-start items-center space-x-60">
+        <div class="w-[555px] flex flex-col space-y-6 items-start">
+          <div class="w-full flex flex-col space-y-2 text-[20px] text-second-gray dark:text-white font-['Poppins']">
+            <div class="flex items-center">
+              Loot NFT-based Move Game, implementing the D&D world on-chain 🎲 🦎 ⚔️ 👸🏻!
+            </div>
+          </div>
+
+          <TheButton text="Developing..." :colored-border="true" href="/" />
+
+        </div>
+
+        <div class="title text-black-2 dark:text-white text-[40px] font-['Poppins'] font-semibold flex items-center">
+          <span>Move Loot 🎲</span>
+
+        </div>
+
+      </div>
+
+      <div class="w-[575px] p-2.5">
+        <LinearLine />
+      </div>
+      <!-- A Block End -->
 
       <!-- B Block Begin -->
       <div class="w-full flex justify-start items-center space-x-60">
-        <div class="title text-black-2 dark:text-white text-[40px] font-['Poppins'] font-semibold flex items-center">
-          <span>MOVE DID 🪪</span>
-          
+
+
+        <div class="title text-black-2 dark:text-white text-[30px] font-['Poppins'] font-semibold flex items-center">
+          <span>Move-based zkWASM 📦</span>
         </div>
+
+        <div class="w-[555px] flex flex-col space-y-6 items-start">
+          <div class="w-full flex flex-col space-y-2 text-[20px] text-second-gray dark:text-white font-['Poppins']">
+            <div class="flex items-center">
+              Generate proofs for the games, verify them on-chain.
+            </div>
+          </div>
+
+          <TheButton text="Developing..." :colored-border="true" href="/" />
+        </div>
+
+      </div>
+      <!-- B Block End -->
+
+      <div class="w-[575px] p-2.5">
+        <LinearLine />
+      </div>
+
+      <!-- B Block Begin -->
+      <div class="w-full flex justify-start items-center space-x-60">
+
         <div class="w-[555px] flex flex-col space-y-6 items-start">
           <div class="w-full flex flex-col space-y-2 text-[20px] text-second-gray dark:text-white font-['Poppins']">
             <div class="flex items-center">
@@ -157,8 +210,13 @@
             </div>
           </div>
 
-          <TheButton text="Launch App" :colored-border="true" href="https://manager.id.rootmud.xyz" />
+          <TheButton text="Launch App" :colored-border="true" href="https://did.rootmud.xyz" />
         </div>
+
+        <div class="title text-black-2 dark:text-white text-[40px] font-['Poppins'] font-semibold flex items-center">
+          <span>MOVE DID 🪪</span>
+        </div>
+
       </div>
       <!-- B Block End -->
 
@@ -191,6 +249,11 @@ const buttons = [
     text: 'Whitepaper',
     coloredBorder: false,
     href: 'https://bodhi.wtf/space/5/15080',
+  },
+  {
+    text: 'Full Video',
+    coloredBorder: false,
+    href: 'https://youtu.be/X-w9JHscCPk',
   },
 ]
 const footerTexts = [
