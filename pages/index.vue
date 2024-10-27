@@ -35,7 +35,7 @@
           </div>
           <div class="flex items-center space-x-2 text-third-gray dark:text-gray-4 text-[20px]">
             <span class="leading-8">
-              Powered by <a href="https://x.com/0xleeduckgo" target="_blank" rel="noopener noreferrer"
+              Powered by <a href="https://x.com/intent/follow?screen_name=0xleeduckgo" target="_blank" rel="noopener noreferrer"
                 class="text-blue-500 underline">0xleeduckgo</a>
             </span>
             &nbsp;and other NonceGeekDAO members
