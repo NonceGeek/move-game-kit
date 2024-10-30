@@ -246,9 +246,14 @@ const buttons = [
     href: 'https://github.com/noncegeek/move-game-kit',
   },
   {
-    text: 'Whitepaper',
+    text: 'Whitepaper-EN',
     coloredBorder: false,
-    href: 'https://bodhi.wtf/space/5/15080',
+    href: 'https://bodhi.wtf/space/5/15427',
+  },
+  {
+    text: 'Whitepaper-CN',
+    coloredBorder: false,
+    href: 'https://bodhi.wtf/space/5/15426',
   },
   {
     text: 'Full Video',
